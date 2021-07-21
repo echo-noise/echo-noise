@@ -4,5 +4,7 @@ I made this profile to register my studying progress as well as to receive feedb
 I'm always open to learning new things!
 
 Currently studying: Android/Kotlin 
+
 Other interests: Python
+
 ☺️
